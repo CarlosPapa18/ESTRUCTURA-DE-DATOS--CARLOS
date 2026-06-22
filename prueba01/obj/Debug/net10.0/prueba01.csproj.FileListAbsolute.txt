@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive - Universidad Estatal Amazónica\Documentos\jamil papa\uea 3ro jamil\ESTRUCTURA DE DATOS (D)\practico\ESTRUCTURA-DE-DATOS--CARLOS\prueba01\bin\Debug\net10.0\prueba01.exe
+C:\Users\hp\OneDrive - Universidad Estatal Amazónica\Documentos\jamil papa\uea 3ro jamil\ESTRUCTURA DE DATOS (D)\practico\ESTRUCTURA-DE-DATOS--CARLOS\prueba01\bin\Debug\net10.0\prueba01.deps.json
+C:\Users\hp\OneDrive - Universidad Estatal Amazónica\Documentos\jamil papa\uea 3ro jamil\ESTRUCTURA DE DATOS (D)\practico\ESTRUCTURA-DE-DATOS--CARLOS\prueba01\bin\Debug\net10.0\prueba01.runtimeconfig.json
+C:\Users\hp\OneDrive - Universidad Estatal Amazónica\Documentos\jamil papa\uea 3ro jamil\ESTRUCTURA DE DATOS (D)\practico\ESTRUCTURA-DE-DATOS--CARLOS\prueba01\bin\Debug\net10.0\prueba01.dll
+C:\Users\hp\OneDrive - Universidad Estatal Amazónica\Documentos\jamil papa\uea 3ro jamil\ESTRUCTURA DE DATOS (D)\practico\ESTRUCTURA-DE-DATOS--CARLOS\prueba01\bin\Debug\net10.0\prueba01.pdb
+C:\Users\hp\OneDrive - Universidad Estatal Amazónica\Documentos\jamil papa\uea 3ro jamil\ESTRUCTURA DE DATOS (D)\practico\ESTRUCTURA-DE-DATOS--CARLOS\prueba01\obj\Debug\net10.0\prueba01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive - Universidad Estatal Amazónica\Documentos\jamil papa\uea 3ro jamil\ESTRUCTURA DE DATOS (D)\practico\ESTRUCTURA-DE-DATOS--CARLOS\prueba01\obj\Debug\net10.0\prueba01.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive - Universidad Estatal Amazónica\Documentos\jamil papa\uea 3ro jamil\ESTRUCTURA DE DATOS (D)\practico\ESTRUCTURA-DE-DATOS--CARLOS\prueba01\obj\Debug\net10.0\prueba01.AssemblyInfo.cs
+C:\Users\hp\OneDrive - Universidad Estatal Amazónica\Documentos\jamil papa\uea 3ro jamil\ESTRUCTURA DE DATOS (D)\practico\ESTRUCTURA-DE-DATOS--CARLOS\prueba01\obj\Debug\net10.0\prueba01.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive - Universidad Estatal Amazónica\Documentos\jamil papa\uea 3ro jamil\ESTRUCTURA DE DATOS (D)\practico\ESTRUCTURA-DE-DATOS--CARLOS\prueba01\obj\Debug\net10.0\prueba01.sourcelink.json
+C:\Users\hp\OneDrive - Universidad Estatal Amazónica\Documentos\jamil papa\uea 3ro jamil\ESTRUCTURA DE DATOS (D)\practico\ESTRUCTURA-DE-DATOS--CARLOS\prueba01\obj\Debug\net10.0\prueba01.dll
+C:\Users\hp\OneDrive - Universidad Estatal Amazónica\Documentos\jamil papa\uea 3ro jamil\ESTRUCTURA DE DATOS (D)\practico\ESTRUCTURA-DE-DATOS--CARLOS\prueba01\obj\Debug\net10.0\refint\prueba01.dll
+C:\Users\hp\OneDrive - Universidad Estatal Amazónica\Documentos\jamil papa\uea 3ro jamil\ESTRUCTURA DE DATOS (D)\practico\ESTRUCTURA-DE-DATOS--CARLOS\prueba01\obj\Debug\net10.0\prueba01.pdb
+C:\Users\hp\OneDrive - Universidad Estatal Amazónica\Documentos\jamil papa\uea 3ro jamil\ESTRUCTURA DE DATOS (D)\practico\ESTRUCTURA-DE-DATOS--CARLOS\prueba01\obj\Debug\net10.0\prueba01.genruntimeconfig.cache
+C:\Users\hp\OneDrive - Universidad Estatal Amazónica\Documentos\jamil papa\uea 3ro jamil\ESTRUCTURA DE DATOS (D)\practico\ESTRUCTURA-DE-DATOS--CARLOS\prueba01\obj\Debug\net10.0\ref\prueba01.dll
