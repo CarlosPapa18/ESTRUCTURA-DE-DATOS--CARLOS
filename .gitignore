@@ -4,3 +4,10 @@
 .vscode/
 *.user
 *.suo
+
+# Archivos editables del informe conservados solo en el equipo local
+/Practico_experimental2/Informe/*.docx
+
+# Capturas preliminares reemplazadas por las evidencias finales 13a-19
+/Practico_experimental2/Capturas/0*.jpeg
+/Practico_experimental2/Capturas/1[0-3]_*.jpeg
