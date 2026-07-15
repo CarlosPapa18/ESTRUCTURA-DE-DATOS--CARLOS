@@ -5,8 +5,8 @@
 *.user
 *.suo
 
-# Archivos editables del informe conservados solo en el equipo local
-/Practico_experimental2/Informe/*.docx
+# El informe se entrega directamente en EVA y se conserva solo en el equipo local
+/Practico_experimental2/Informe/
 
 # Capturas preliminares reemplazadas por las evidencias finales 13a-19
 /Practico_experimental2/Capturas/0*.jpeg
