@@ -11,3 +11,7 @@
 # Capturas preliminares reemplazadas por las evidencias finales 13a-19
 /Practico_experimental2/Capturas/0*.jpeg
 /Practico_experimental2/Capturas/1[0-3]_*.jpeg
+
+# Los informes de la práctica 03 se entregan en Moodle, no en GitHub
+/Practico-experimental03/*.docx
+/Practico-experimental03/*.pdf
